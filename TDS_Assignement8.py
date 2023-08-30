@@ -1,4 +1,4 @@
-!pip install -q streamlit
+pip install -q streamlit
 import streamlit as st
 
 def find_largest(num1, num2, num3):
